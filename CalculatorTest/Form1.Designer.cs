@@ -30,6 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.space = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -51,14 +52,24 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Lexa";
             // 
+            // space
+            // 
+            this.space.AutoSize = true;
+            this.space.Location = new System.Drawing.Point(470, 223);
+            this.space.Name = "space";
+            this.space.Size = new System.Drawing.Size(36, 13);
+            this.space.TabIndex = 2;
+            this.space.Text = "purple";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.space);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -70,6 +81,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label space;
     }
 }
 
