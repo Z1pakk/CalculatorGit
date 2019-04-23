@@ -29,16 +29,42 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+=======
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.label6 = new System.Windows.Forms.Label();
+=======
+<<<<<<< HEAD
+>>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+            this.label6 = new System.Windows.Forms.Label();
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
+>>>>>>> 8b4913bfc241db3bfc9e3ba2ff2c487331401b29
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(299, 217);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(159, 29);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "dimooooonn";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
+=======
             this.label1.Location = new System.Drawing.Point(24, 31);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
@@ -86,6 +112,7 @@
             // 
             // label6
             // 
+<<<<<<< HEAD
             this.label6.BackColor = System.Drawing.Color.Silver;
             this.label6.Font = new System.Drawing.Font("Arial Black", 25F);
             this.label6.Location = new System.Drawing.Point(187, 230);
@@ -94,6 +121,14 @@
             this.label6.TabIndex = 5;
             this.label6.Text = "Andrew";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+=======
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(319, 53);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(29, 13);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Yura";
+>>>>>>> 8b4913bfc241db3bfc9e3ba2ff2c487331401b29
             // 
             // Form1
             // 
@@ -106,7 +141,16 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(2);
+=======
+<<<<<<< HEAD
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+            this.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
+>>>>>>> 8b4913bfc241db3bfc9e3ba2ff2c487331401b29
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -117,11 +161,21 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
+<<<<<<< HEAD
+=======
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label6;
+=======
+<<<<<<< HEAD
+>>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+        private System.Windows.Forms.Label label6;
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
+>>>>>>> 8b4913bfc241db3bfc9e3ba2ff2c487331401b29
     }
 }
 
