@@ -35,7 +35,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
 >>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+            this.label6 = new System.Windows.Forms.Label();
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
             this.SuspendLayout();
             // 
             // label1
@@ -102,18 +106,32 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "Masa";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(319, 53);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(29, 13);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Yura";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 >>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+            this.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -130,7 +148,11 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+<<<<<<< HEAD
 >>>>>>> 1b671bcc5b0651b07f0577cdca166616ec6d1dc4
+=======
+        private System.Windows.Forms.Label label6;
+>>>>>>> f8e9a451851b45fc29071776cea68564c2c00c36
     }
 }
 
