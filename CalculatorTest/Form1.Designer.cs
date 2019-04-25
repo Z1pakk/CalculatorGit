@@ -48,9 +48,9 @@
             this.label2.Location = new System.Drawing.Point(443, 31);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(162, 13);
+            this.label2.Size = new System.Drawing.Size(212, 17);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Andrew Smirnovffffftfr3rwewewer";
+            this.label2.Text = "Andrew Smirnovffffftfr3rwewewer ttt 56345345";
             // 
             // Form1
             // 
